@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 鑫_factory
 
 > A Vue.js project
@@ -80,3 +81,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
       }*/
     })
   ```
+=======
+# portalSite
+>>>>>>> 0908a9f3446098fd7e0f98ba6cc4370f3f8471be
